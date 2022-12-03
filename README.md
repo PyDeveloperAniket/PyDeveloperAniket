@@ -3,7 +3,8 @@
  ![Black Minimal Motivation Quote LinkedIn Banner (1)](https://user-images.githubusercontent.com/63203988/205430564-e5b554aa-9fb0-4986-9f2e-aae80ffc5a28.jpg)
 
 
-_______________________________________________________________________________________________________________________________________________________________________# 💫 About Me:
+_________________________________________________________________________________________________________________________________________________________________
+# 💫 About Me:
 🔭 I’m Currently improving my skill in Cloud Computing.<br>🌱I'm Preparing for Placements.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://aniketwandile.netlify.app/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Excited about Gaming and new Technology.
 
 
