@@ -27,8 +27,6 @@ ________________________________________________________________________________
 ---
 [![](https://visitcount.itsvg.in/api?id=PyDeveloperAniket&icon=2&color=1)](https://visitcount.itsvg.in)
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/63203988/205431436-88030bc6-5845-4129-957a-3154c7685ca9.gif)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
