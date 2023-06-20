@@ -1,7 +1,6 @@
  ### HELLO BUDDY 👋
  ### Aniket Wandile Here.
- ![Black Minimal Motivation Quote LinkedIn Banner (1)](![Black Technology LinkedIn Banner](https://github.com/PyDeveloperAniket/PyDeveloperAniket/assets/63203988/ad2404d4-42d3-4e7e-a777-4c6cf37f7168)
-)
+(https://github.com/PyDeveloperAniket/PyDeveloperAniket/assets/63203988/ad2404d4-42d3-4e7e-a777-4c6cf37f7168)
 
 
 _________________________________________________________________________________________________________________________________________________________________
