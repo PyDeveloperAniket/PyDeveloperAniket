@@ -6,9 +6,8 @@
 
 _________________________________________________________________________________________________________________________________________________________________
 # 💫 About Me:
-<img width="40%" align="right" style="animation: updown 4s infinite;"  src="https://github.com/PyDeveloperAniket/PyDeveloperAniket/assets/63203988/44bb9aa3-8288-4546-bf52-b0ecda60592d" >
 🔭 I’m Currently improving my skill in Cloud Computing.<br>🌱I'm Preparing for Placements.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://aniketwandile.netlify.app/<br>😄 Pronouns: He/His<br>⚡ Fun fact: Excited about Gaming and new Technology.
-
+<img width="40%" align="right" src="https://github.com/PyDeveloperAniket/PyDeveloperAniket/assets/63203988/44bb9aa3-8288-4546-bf52-b0ecda60592d" style="animation: updown 4s infinite;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/accounts/login/?next=%2Fsanatani_coder%2F&source=omni_redirect) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-wandile-78315b1b9/?originalSubdomain=in) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Aniketwandile0) 
