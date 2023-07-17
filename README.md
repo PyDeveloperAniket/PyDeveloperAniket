@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/63203988/247189984-0e895a9a-8038-4d3b-b619-573f09958564.jpg)
 <h1 align="center" >HELLO BUDDY 👋 I'm<a href="https://www.linkedin.com/in/aniket-wandile-78315b1b9/?originalSubdomain=in" target="_blank" style="text-decoration:none; color:white;"> Aniket Wandile </a></h1>
-<img width="40%" align="right" style="animation: updown 4s infinite;"  src="https://github.com/PyDeveloperAniket/PyDeveloperAniket/assets/63203988/44bb9aa3-8288-4546-bf52-b0ecda60592d" >
+<img width="40%" align="right" src="https://github.com/PyDeveloperAniket/PyDeveloperAniket/assets/63203988/44bb9aa3-8288-4546-bf52-b0ecda60592d" >
 
 💫 Hey Buddy, I am <b>Aniket Wandile</b> completed my <b>Bachelor' Degree in Computer Science and Engineering in 2023</b> I am a <b>Full Stack Web Developer with the expertise in MERN Stack Development. </b> also, wish to explore many fields. ⚡
 
