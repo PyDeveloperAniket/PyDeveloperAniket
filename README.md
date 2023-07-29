@@ -120,7 +120,7 @@ We are providing 1:1 Mentorship on our Discord server totally free of cost.
 Join the community on Discord for interaction with students from all over India.
 
 Visit us at: 
- <a href="https://codeincommunity.tech"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+ <a href="[https://codeincommunity.tech](https://codewarfare.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 
   <span> <h2>Join the Community on LinkedIN ⚡</h2>
 
