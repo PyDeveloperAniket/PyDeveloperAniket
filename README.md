@@ -122,7 +122,7 @@ Join the community on Discord for interaction with students from all over India.
 Visit us at: 
  <a href="[https://codeincommunity.tech](https://codewarfare.netlify.app/)"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 
-  <span> <h2>Join the Community on LinkedIN ⚡</h2>
+  <span> <h2>Join Us on LinkedIN ⚡</h2>
 
 <a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
    
