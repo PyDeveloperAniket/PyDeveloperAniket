@@ -63,7 +63,7 @@ I believe in implementing the knowledge which you have. Projects play a signific
 
 <a href="mailto:aniketwandile2001@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-<a  href="https://www.instagram.com/code.warfare/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a  href="[https://www.instagram.com/aniketwandile.dev/](https://www.instagram.com/aniketwandile.dev?igsh=MXBzNGI5ZXEzMHdwYw==)"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
    
    
